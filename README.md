@@ -2,7 +2,7 @@
 
 ## 👋 Sobre mim:
 
-Olá! Meu nome é Henrique Denisieski, sou um desenvolvedor e estudante de tecnologia. Sou apaixonado(a) por desenvolvimento de software e estou sempre buscando aprender coisas novas e aprimorar minhas habilidades.
+Olá! Meu nome é Henrique Denisieski, sou um desenvolvedor front-end e estudante de tecnologia. Sou apaixonado(a) por desenvolvimento de software e estou sempre buscando aprender coisas novas e aprimorar minhas habilidades.
 
 ## 📜 Currículo:
 
@@ -27,7 +27,7 @@ Certifique-se de conferir meus repositórios para ver mais projetos interessante
 
 - Tecnologias/Frameworks: MySQL e Node.js.
 
-- Outras habilidades: HTML5 e CSS3
+- Outras habilidades: Pacote office, HTML5 e CSS3.
 
 ## 📂 Contribuições Open Source:
 
