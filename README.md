@@ -27,7 +27,7 @@ Certifique-se de conferir meus repositórios para ver mais projetos interessante
 
 - Tecnologias/Frameworks: MySQL e Node.js.
 
-- Outras habilidades: 
+- Outras habilidades: HTML5 e CSS3
 
 ## 📂 Contribuições Open Source:
 
