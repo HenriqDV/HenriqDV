@@ -15,9 +15,9 @@ Aqui estão alguns dos projetos nos quais tenho trabalhado recentemente:
 
 - **[Projeto Ayom](link_projeto_ayom)**: Um site de venda de roupas funcional e responsivo, focado na apresentação do front-end e com funções basicas utilizadas em estudos de back-end.
 
-- **[Projeto 2](link_projeto_2)**: Descrição breve do projeto e suas principais funcionalidades/contribuições.
+- **[Projeto 2](link_projeto_2)**: Em desenvolvimento...
 
-- **[Projeto 3](link_projeto_3)**: Descrição breve do projeto e suas principais funcionalidades/contribuições.
+- **[Projeto 3](link_projeto_3)**: Em desenvolvimento...
 
 Certifique-se de conferir meus repositórios para ver mais projetos interessantes!
 
@@ -49,7 +49,7 @@ Fique à vontade para me contatar se tiver alguma pergunta, sugestão ou oportun
 
 ## ✍ Blog:
 
-Eu também mantenho um blog onde compartilho conhecimentos, experiências e tutoriais relacionados a área de informática. Confira meu blog em: [link do blog](Link_)
+Eu também mantenho um blog onde compartilho conhecimentos, experiências e tutoriais relacionados a área de informática. Confira meu blog em: [link do blog](https://webideasbr.blogspot.com/)
 
 ## 📈 Estatísticas do GitHub:
 
