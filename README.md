@@ -6,7 +6,7 @@ Olá! Meu nome é Henrique Denisieski, sou um desenvolvedor front-end e estudant
 
 ## 📜 Currículo:
 
-- **[Currículo Virtual HTML/CSS](link_)**: Currículo criado em HTML e CSS.
+- **[Currículo Virtual HTML/CSS](www.ayomstudios.com.br)**: Currículo criado em HTML e CSS.
 - **[Currículo Virtual PDF](link_)**: Currículo padrão em PDF.
    
 ## 👀 Projetos Destacados:
