@@ -29,14 +29,6 @@ Certifique-se de conferir meus repositórios para ver mais projetos interessante
 
 - Outras habilidades: Pacote office, HTML5 e CSS3.
 
-## 📂 Contribuições Open Source:
-
-Estou sempre interessado(a) em contribuir para projetos de código aberto. Aqui estão algumas das minhas contribuições notáveis:
-
-- **[Projeto de Código Aberto 1](link_projeto_1)**: Descrição breve da contribuição e seu impacto no projeto.
-
-- **[Projeto de Código Aberto 2](link_projeto_2)**: Descrição breve da contribuição e seu impacto no projeto.
-
 ## 📫 Contato:
 
 Entrar em contato comigo através dos seguintes canais:
@@ -46,22 +38,6 @@ Entrar em contato comigo através dos seguintes canais:
 - WhatsApp: [WhatsApp Aqui!](https://wa.me/5551991537023)
 
 Fique à vontade para me contatar se tiver alguma pergunta, sugestão ou oportunidade de colaboração!
-
-## ✍ Blog:
-
-Eu também mantenho um blog onde compartilho conhecimentos, experiências e tutoriais relacionados a área de informática. Confira meu blog em: [link do blog](https://webideasbr.blogspot.com/)
-
-## 📈 Estatísticas do GitHub:
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark)
-
-## Projetos em Destaque:
-
-![Projetos em Destaque](https://github-readme-stats.vercel.app/api/pin/?username=seu_usuario&repo=seu_repositorio&theme=dark)
-
-## Contribuições:
-
-![Contribuições](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=dark)
 
 ## Obrigado por visitar!
 
