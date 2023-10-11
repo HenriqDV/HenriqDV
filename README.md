@@ -2,7 +2,8 @@
 
 ## 👋 Sobre mim:
 
-Olá! Meu nome é Henrique Denisieski, sou um desenvolvedor front-end e estudante de tecnologia. Sou apaixonado(a) por desenvolvimento de software e estou sempre buscando aprender coisas novas e aprimorar minhas habilidades.
+Olá! Meu nome é Henrique Denisieski, Sou um técnico em informática com pouca experiência no mercado, atuando apenas em pequenos trabalhos de freelancer efetuando limpeza, montagem e manutenção de desktops. Tenho conhecimento intermediário em Excel, Word e PowerPoint, e conhecimento básico nas linguagens de programação Javascript e Python. 
+
 
 ## 📜 Currículo:
 
