@@ -8,7 +8,7 @@ Olá! Meu nome é Henrique Denisieski, Sou um técnico em informática com pouca
 ## 📜 Currículo:
 
 - **[Currículo Virtual HTML/CSS](http://www.ayomstudios.com.br/index.html)**: Currículo criado em HTML e CSS.
-- **[Currículo Virtual PDF](https://drive.google.com/file/d/1cI62Q_23kudnRpRZ8jdmCBR5lSLevvTT/view?usp=sharing)**: Currículo padrão em PDF.
+- **[Currículo Virtual PDF](https://drive.google.com/file/d/1O9mtpwnZvLRVY4jX52F7KRUrWbrwWY3N/view?usp=sharing)**: Currículo padrão em PDF.
    
 ## 👀 Projetos Destacados:
 
