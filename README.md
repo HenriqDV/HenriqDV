@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/HenriqDV/HenriqDV/blob/main/banner.png?raw=true)](https://github.com/HenriqDV)
+[![MasterHead](https://github.com/HenriqDV/HenriqDV/blob/main/bannerGit.png?raw=true)](https://github.com/HenriqDV)
 
 # Bem-vindo(a) ao meu perfil do GitHub!
 
