@@ -1,4 +1,4 @@
-[![MasterHead](your image link)]([your GitHub link](https://github.com/HenriqDV))
+[![MasterHead](your image link)](https://github.com/HenriqDV)
 
 # Bem-vindo(a) ao meu perfil do GitHub!
 
