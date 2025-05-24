@@ -16,9 +16,9 @@ Olá! Meu nome é Henrique Denisieski, Sou um técnico em informática com pouca
 
 Aqui estão alguns dos projetos nos quais tenho trabalhado recentemente:
 
-- **[Projeto Panela Verde]((https://github.com/HenriqDV/PanelaVerde))**: Site de um restaurante ficticio de comida vegana, focado na apresentação do front-end utilizando bootstrap 5.3.
+- **[Projeto Panela Verde](https://github.com/HenriqDV/PanelaVerde)**: Site de um restaurante ficticio de comida vegana, focado na apresentação do front-end utilizando bootstrap 5.3.
 
-- **[Projeto Vargas Telhados]((https://github.com/HenriqDV/VargasTelhados))**: Site de apresentação e divulgação dos trabalhos de conserto de telhados.
+- **[Projeto Vargas Telhados](https://github.com/HenriqDV/VargasTelhados)**: Site de apresentação e divulgação dos trabalhos de conserto de telhados.
 
 - **[Projeto 3](link_projeto_3)**: Em desenvolvimento...
 
