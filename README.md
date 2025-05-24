@@ -16,9 +16,9 @@ Olá! Meu nome é Henrique Denisieski, Sou um técnico em informática com pouca
 
 Aqui estão alguns dos projetos nos quais tenho trabalhado recentemente:
 
-- **[Projeto Ayom](link_projeto_ayom)**: Um site de venda de roupas funcional e responsivo, focado na apresentação do front-end e com funções basicas utilizadas em estudos de back-end.
+- **[Projeto Panela Verde]((https://github.com/HenriqDV/PanelaVerde))**: Site de um restaurante ficticio de comida vegana, focado na apresentação do front-end utilizando bootstrap 5.3.
 
-- **[Projeto 2](link_projeto_2)**: Em desenvolvimento...
+- **[Projeto Vargas Telhados]((https://github.com/HenriqDV/VargasTelhados))**: Site de apresentação e divulgação dos trabalhos de conserto de telhados.
 
 - **[Projeto 3](link_projeto_3)**: Em desenvolvimento...
 
