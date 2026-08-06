@@ -1,10 +1,8 @@
 [![MasterHead](https://github.com/HenriqDV/HenriqDV/blob/main/bannerGit.png?raw=true)](https://github.com/HenriqDV)
 
-# Olá, eu sou o Henrique 👋
-
 **Técnico em Informática | Suporte N2 & Infraestrutura | Dev Web & IoT | Estudante de ADS**
 
-Cachoeirinha/RS · [henriq.dv18@gmail.com](mailto:henriq.dv18@gmail.com) · [LinkedIn](https://www.linkedin.com/in/henrique-denisieski-0140b0272/) · [henriquedv.tech](https://henriquedv.tech/)
+[henriq.dv18@gmail.com](mailto:henriq.dv18@gmail.com) · [LinkedIn](https://www.linkedin.com/in/henrique-denisieski-0140b0272/) · [henriquedv.tech](https://henriquedv.tech/)
 
 ---
 
