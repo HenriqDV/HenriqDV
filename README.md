@@ -1,56 +1,47 @@
 [![MasterHead](https://github.com/HenriqDV/HenriqDV/blob/main/bannerGit.png?raw=true)](https://github.com/HenriqDV)
 
-**Técnico em Informática | Suporte N2 & Infraestrutura | Dev Web & IoT | Estudante de ADS**
+# Olá, eu sou o Henrique 👋
 
-[henriq.dv18@gmail.com](mailto:henriq.dv18@gmail.com) · [LinkedIn](https://www.linkedin.com/in/henrique-denisieski-0140b0272/) · [henriquedv.tech](https://henriquedv.tech/)
+**Técnico em Informática · Estudante de ADS · Dev Web & IoT**
+
+Cachoeirinha/RS · [henriq.dv18@gmail.com](mailto:henriq.dv18@gmail.com) · [LinkedIn](https://www.linkedin.com/in/henrique-denisieski-0140b0272/) · [henriquedv.tech](https://henriquedv.tech/)
 
 ---
 
 ## 🧭 Sobre mim
 
-Sou Técnico em Informática com experiência prática em **suporte N2 e monitoramento de infraestrutura de rede**, atualmente cursando **Análise e Desenvolvimento de Sistemas** (previsão de conclusão em 2026).
+Sou técnico em informática, atualmente cursando **Análise e Desenvolvimento de Sistemas**. Tenho experiência prática em suporte N2 e monitoramento de infraestrutura de rede, e nas horas livres gosto de colocar a mão na massa em projetos que misturam **hardware e software**.
 
-No dia a dia, transito entre duas frentes: a operacional (suporte, redes, manutenção de hardware) e a de desenvolvimento (aplicações web e sistemas de automação/IoT). Gosto de projetos que unem software e hardware — meu projeto mais recente conecta um microcontrolador ESP32 a um backend web completo para automatizar o cultivo indoor.
-
-Busco uma oportunidade de **estágio em TI** para aplicar e expandir meus conhecimentos técnicos, contribuindo com organização, agilidade e comprometimento.
+Curto entender como as coisas funcionam de ponta a ponta — desde o código que roda num microcontrolador até o banco de dados que armazena os dados na nuvem. Esse repositório reúne um pouco do que venho estudando e construindo por conta própria.
 
 ---
 
 ## 🚀 Projeto em destaque: GrowController ESP32
 
-Sistema de automação IoT para cultivo indoor, construído do zero — do firmware embarcado ao painel web.
+Meu projeto mais completo até agora: um sistema de automação IoT para cultivo indoor, construído do zero — do firmware embarcado ao painel web.
 
 - 🌱 Controle de iluminação por fotoperíodo com sincronização de horário via **NTP/RTC**
 - 🌡️ Monitoramento de temperatura, umidade e umidade do solo em tempo real
 - 🔌 Acionamento de **8 relés** para automação de equipamentos (luzes, ventilação, irrigação)
 - 📟 Interface **OLED com menu interativo** para controle local
-- 📱 Controle remoto e monitoramento via **Blynk IoT**
 - 💾 Backend em **PHP + MySQL** para registro de leituras e comandos, hospedado na nuvem
 
-**Stack:** ESP32-S3 · C++ · PlatformIO · PHP · MySQL · Blynk IoT
+Foi meu primeiro projeto integrando embarcado + backend + banco de dados numa aplicação real, e onde aprendi bastante sobre comunicação entre hardware e servidor.
+
+**Stack:** ESP32-S3 · C++ · PlatformIO · PHP · MySQL
 
 🔗 [github.com/HenriqDV/controlador-cultivo-esp32](https://github.com/HenriqDV/controlador-cultivo-esp32)
 
 ---
 
-## 💼 Experiência profissional
-
-**Analista NOC / Estagiário** — Vem pra Uno · *Nov/2024 – Out/2025*
-Suporte técnico N2, diagnóstico e resolução de chamados de rede, monitoramento contínuo de infraestrutura em ambiente corporativo.
-
-**Outras experiências:** atendimento ao cliente, vendas e rotinas administrativas — construindo uma base sólida em organização, comunicação e resolução de problemas antes da transição para TI.
-
----
-
-## 🛠️ Habilidades técnicas
+## 🛠️ O que venho estudando e aplicando
 
 **Linguagens:** JavaScript · Java · PHP · C++ · HTML5 · CSS3
 **Banco de dados:** MySQL
 **Frameworks & ferramentas:** Node.js · Bootstrap 5
-**IoT & Embarcados:** ESP32 · Sensores · Blynk IoT · Automação
-**Redes & Suporte:** Suporte N2 · Monitoramento de infraestrutura
+**IoT & Embarcados:** ESP32 · Sensores · Automação
+**Redes & Infraestrutura:** Suporte N2 · Monitoramento de redes
 **Hardware:** Montagem e manutenção de PCs
-**Office:** Excel e Word avançados
 
 ---
 
@@ -64,22 +55,18 @@ Suporte técnico N2, diagnóstico e resolução de chamados de rede, monitoramen
 
 ---
 
-## 🎓 Formação & certificações
+## 🎓 Formação
 
 - **Análise e Desenvolvimento de Sistemas** — cursando (3º semestre, previsão 2026)
 - **Técnico em Informática** — concluído em 2023
-- Programação Web Front-end (HTML, CSS, JS)
-- Banco de Dados MySQL
-- Excel e Word Avançados
-- Montagem e Manutenção de PC
+- Cursos complementares: Programação Web Front-end, Banco de Dados MySQL, Montagem e Manutenção de PC
 
 ---
 
-## 📫 Vamos conversar
+## 📫 Contato
 
 - 📧 [henriq.dv18@gmail.com](mailto:henriq.dv18@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/henrique-denisieski-0140b0272/)
 - 💬 [WhatsApp](https://wa.me/5551991537023)
-- 📄 [Currículo em PDF](https://drive.google.com/file/d/1XmDN88CZHaZZlWpT85oUdkOLKyCzM012/view?usp=drive_link)
 
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios — sempre há algo novo em construção. 🚧
+Fique à vontade para explorar meus repositórios — sempre há algo novo em construção. 🚧
